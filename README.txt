@@ -50,7 +50,7 @@ Mata Kuliah: Pemrograman Web Lanjut
 
 ## 📁 Struktur Project
 
-perpustakaan_modular/
+sistem_informasi_perpustakaan/
 │
 ├── buku/
 │   ├── index.php
